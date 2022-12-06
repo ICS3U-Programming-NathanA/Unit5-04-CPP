@@ -63,7 +63,7 @@ int main() {
 
     // If the user entered a invalid sign
     if (result == -1) {
-        std::cout << userSign << "is not a valid sign.";
+        std::cout << userSign << " is not a valid sign.";
 
         // Displays the result of the product
     } else {
